@@ -1,7 +1,8 @@
 #include<stdio.h>
 void main()
 {
-    int a,b,op;
+    int a,b;
+    char op;
     printf("Enter the first number :");
     scanf("%d",&a);
     printf("Enter the second number :");
